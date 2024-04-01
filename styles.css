@@ -53,6 +53,10 @@ header nav ul li {
     width: 100%;
 }
 
+.greeting {
+    background-color: blueviolet;
+}
+
 footer {
     background-color: rgb(43, 37, 28);
     width: 100%;
